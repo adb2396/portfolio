@@ -1,2 +1,2 @@
 # portfolio
-Portfolio page describing basic info and projects
+Portfolio page template describing basic info and projects.
